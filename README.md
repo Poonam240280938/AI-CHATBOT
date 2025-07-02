@@ -1,4 +1,4 @@
-# poonam.py
+
 # 🤖 AI Chatbot
 
 An AI-powered chatbot built using Python, OpenAI's GPT models, and Streamlit for an interactive web interface. This chatbot can answer questions, engage in conversation, and be extended with additional features such as memory, voice input/output, and more.
